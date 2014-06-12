@@ -1,0 +1,2 @@
+- (java) A service that collects data from aftonbladet
+- (c++) A service that aggregate data collected from aftonbladet to be returned to web app 
