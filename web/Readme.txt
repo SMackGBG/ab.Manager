@@ -1,1 +1,1 @@
-- (ROR) web application that displays graphs with aggregated data from aftonbladet
+- (ROR) web application that displays graphs with aggregated data from aftonbladet.
